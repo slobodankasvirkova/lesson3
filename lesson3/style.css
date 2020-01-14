@@ -1,0 +1,30 @@
+/**/
+h1.first-h1 {
+    background-color: lightblue ;
+    color:blue;
+    font-size: 32px;
+}
+p {
+    border-top: 10px solid blue;
+    border: 10px solid green;
+    color: red;
+}
+p#paragraph {
+    color: blue;
+}
+p.color-text {
+    color: yellow;
+}
+h1 {
+    color: red;
+    background-color: rgba(255,99,71,0.5);
+    border: solid tomato;
+}
+body {
+    background: linen url(paper.gif) no-repeat right top;
+    /*border-width: 5px;
+    border-style: solid;
+    border-color: yellow;
+    border-radius: 50px;*/
+   
+} 
